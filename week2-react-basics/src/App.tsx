@@ -1,6 +1,9 @@
 import { useState } from 'react';
 import './index.css';
+<<<<<<< HEAD
 import Message from "./Message";
+=======
+>>>>>>> template/main
 
 function App() {
   const [count, setCount] = useState(0);
